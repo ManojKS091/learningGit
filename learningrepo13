@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<head>
+  <meta charset = 'utf-8'>
+  <link src = 'style.css' rel = 'stylesheet'>
+</head>
+<body>
+  <p> this is a paragraph where we are started to learn GITHUB</p>
+  <p> In this paragraph the Email id should be shown</p>
+  <p> Im manojKS091</p>
+ </body>
+</html>
